@@ -1,6 +1,7 @@
 # Flask-Apps
 
 To run the flask application using cmd in Windows-
+
 in cmd, go to the directory which contains the code, in cmd type set FLASK_APP="filename", then type flask run.
 
 To run using the name of the module-
